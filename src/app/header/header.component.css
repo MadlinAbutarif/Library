@@ -1,0 +1,47 @@
+ul {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+      text-align: left;
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    background-color: rgb(215, 211, 211);
+  }
+  
+  .divClass {
+    height: 525px;
+    
+  }
+   
+  img{
+    width:210px
+  }
+ 
+  
+  li a {
+    display: block;
+    margin: 0 0 2px 0;
+    text-decoration: none;
+    
+  }
+  
+  #allbtns {
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    padding: 0%;
+    border-radius: 2px;
+    font-size: 17px;
+    margin: 1px;
+    border-color: rgb(38, 40, 40);
+    text-align: left;
+
+  }
+
+  #allbtns:hover{
+    background-color: rgb(53, 53, 53);
+  }
